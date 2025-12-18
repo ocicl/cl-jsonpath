@@ -1,0 +1,10 @@
+* cl-jsonpath
+
+A lightweight JSONPath library for Common Lisp with RFC 9535 compliance.
+
+|---------+---------------------------------------------------|
+| source  | git:https://git.sr.ht/~hajovonta/cl-jsonpath       |
+| commit  | a767e55                                           |
+| systems | cl-jsonpath                                       |
+|---------+---------------------------------------------------|
+
